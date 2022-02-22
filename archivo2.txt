@@ -1,5 +1,0 @@
-Este es otro archivo que se ha creado.
-
-Aquí hicimos una modificación.
-
-Agregamos otra línea a este archivo.
